@@ -1,5 +1,8 @@
 # Three.js Starter
-Basic geometric plane Design
+
+Project running at:
+  - http://192.168.10.127:8080
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
