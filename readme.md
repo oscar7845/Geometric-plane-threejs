@@ -1,7 +1,7 @@
 # Three.js Starter
 
-Project running at:
-  - http://192.168.10.127:8080
+Animated terrain
+- Created using three.js
 
 
 ## Setup
