@@ -3,8 +3,7 @@
 Animated terrain
 - Created using three.js
 
-![GIF][(https://i.ibb.co/QCGjn6t/plane-min.gif)]
-
+[PROJECT GIF](https://i.ibb.co/QCGjn6t/plane-min.gif)
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
