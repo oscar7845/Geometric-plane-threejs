@@ -3,6 +3,7 @@
 Animated terrain
 - Created using three.js
 
+![GIF](https://ibb.co/JyPF2zg)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
